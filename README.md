@@ -10,10 +10,10 @@ This workflow was developped to investigate and characterize the interactions,
 between snoRNAs and their host genes, found in RNA-RNA interaction datasets from
 PARIS (PMID: 27180905), LIGR-Seq (PMID: 27184080) and SPLASH (PMID: 27184079).
 The first part of the analysis requires to process the raw data with this pipeline:\
-<a href="https://github.com/Gabrielle-DF/paris">`https://github.com/Gabrielle-DF/paris`</a>
+<a href="https://github.com/Gabrielle-DF/paris">https://github.com/Gabrielle-DF/paris</a>
 
 ## Requirements
-Conda (Miniconda3) (https://docs.conda.io/en/latest/miniconda.html)
+Conda (Miniconda3) (https://docs.conda.io/en/latest/miniconda.html)<br>
 Snakemake (https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
 
 ## Set up
